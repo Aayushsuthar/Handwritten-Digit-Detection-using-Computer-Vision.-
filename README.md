@@ -21,7 +21,6 @@ MNIST Dataset
 10 classes (digits 0-9)
 
 📥 Installation
-bashgit clone https://github.com/Aayushsuthar/Handwritten-Digit-Detection-using-Computer-Vision.git
 cd Handwritten-Digit-Detection-using-Computer-Vision
 pip install tensorflow numpy matplotlib opencv-python jupyter
 🚀 Usage
