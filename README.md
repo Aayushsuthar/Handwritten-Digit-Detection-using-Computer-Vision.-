@@ -29,8 +29,8 @@ bashjupyter notebook Classification.ipynb
 Run all cells to train and test the model.
 📈 Results
 
-Training Accuracy: ~99%
-Test Accuracy: ~98%
+Training Accuracy: ~87%
+Test Accuracy: ~84%
 
 👤 Author
 Aayush Suthar
