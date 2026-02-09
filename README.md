@@ -2,19 +2,6 @@
 
 #### Building a Neural Network from Scratch (no TensorFlow/PyTorch, just NumPy & Math)
 
-## Author
-
-**Aayush Suthar** (he/him)
-
-👋 Hi, I'm Aayush Suthar, a Computer Science and Engineering undergraduate specializing in Artificial Intelligence and Machine Learning at Manipal University.
-
-- 📍 Jaipur, India
-- 📧 aayushsuthar5115@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/aayushsuthar)
-- 🐦 [Twitter](https://twitter.com/aayushsuthar711)
-- 💻 [GitHub](https://github.com/Aayushsuthar)
-- 🧩 [LeetCode](https://leetcode.com/u/Aayush_Suthar/)
-
 ## General Overview
 
 During this semester, I studied the **Artificial Intelligence** curriculum and learned about **Artificial Neural Networks**. While I had some experience with Python and machine learning basics, I was still new to computer vision. Building this project from scratch was a perfect introduction to **Computer Vision** using artificial neural networks (ANN).
@@ -38,7 +25,7 @@ Handwritten digit recognition is the ability of computers to recognize human han
 
 ## 2. Math Explanation
 
-I implemented a two-layer artificial neural network and trained it on the MNIST digit recognizer dataset. It's implemented from scratch in Python using only the NumPy library—to deal with lists/matrices—and basic math. This approach helped me understand the underlying mathematics of neural networks better.
+I implemented a two-layer artificial neural network and trained it on the MNIST digit recogniser dataset. It's implemented from scratch in Python using only the NumPy library—to deal with lists/matrices—and basic math. This approach helped me understand the underlying mathematics of neural networks better.
 
 ![Neural Network Architecture](https://user-images.githubusercontent.com/54215462/174853072-9ea6f6a5-e4f3-49c8-9420-815d9a64894a.png)
 
@@ -110,10 +97,10 @@ Let's look at a couple of examples:
 ## Key Features
 
 - **From Scratch Implementation**: No high-level frameworks like TensorFlow or PyTorch
-- **Pure NumPy**: All matrix operations and calculations done with NumPy
+- **Pure NumPy**: All matrix operations and calculations are done with NumPy
 - **Educational Focus**: Clear code with detailed comments explaining each step
-- **Gradient Descent Optimization**: Manual implementation of backpropagation and parameter updates
-- **Visualization**: Built-in functions to visualize predictions and compare with actual labels
+- **Gradient Descent Optimisation**: Manual implementation of backpropagation and parameter updates
+- **Visualisation**: Built-in functions to visualise predictions and compare with actual labels
 
 ## How to Run
 
@@ -143,7 +130,7 @@ Through this project, I gained a deep understanding of:
 
 - Forward and backward propagation
 - Activation functions (ReLU and Softmax)
-- Gradient descent optimization
+- Gradient descent optimisation
 - Matrix operations for efficient computation
 - The mathematics behind neural networks
 
@@ -155,3 +142,18 @@ And that's it! If you found this repository interesting, kindly give it a star �
 
 - MNIST Dataset providers
 - The broader machine learning community for educational resources
+
+
+## Author
+
+**Aayush Suthar** (he/him)
+
+👋 Hi, I'm Aayush Suthar, a Computer Science and Engineering undergraduate specialising in Artificial Intelligence and Machine Learning at Manipal University.
+
+- 📍 Jaipur, India
+- 📧 aayushsuthar5115@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/aayushsuthar)
+- 🐦 [Twitter](https://twitter.com/aayushsuthar711)
+- 💻 [GitHub](https://github.com/Aayushsuthar)
+- 🧩 [LeetCode](https://leetcode.com/u/Aayush_Suthar/)
+
